@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="RippleButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textColor">#FF0000</item>
+        <item name="android:fontFamily">Casual</item>
+<!--        <item name="android:fontFamily">Roboto-Regular.ttf</item>-->
+        <item name="android:textSize">16sp</item>
+        <item name="android:shadowColor">#FF000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">4</item>
+
+<!--        <item name="colorPrimary">@color/banana</item>-->
+<!--        <item name="colorPrimaryDark">@color/black</item>-->
+<!--        <item name="colorAccent">@color/Blue</item>-->
+<!--        <item name="android:colorControlHighlight">#952721</item>-->
+
+    </style>
+
+</resources>
